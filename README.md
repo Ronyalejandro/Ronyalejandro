@@ -1,5 +1,6 @@
-## Hi there 👋
-Hola mi nombre es RONY ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) =================================================================== ==================================================================== backend ------- estudie analisis de sistemas hace a#os, davido a otros factores lo deje hazta ahora decidi volver a lo que de verdad me apaciona la progamacion * 🌍Estoy radicado en Venezuela * ✉️ Puedes contactarme en [ronyrivasmarquez@gmail.com](mailto:ronyrivasmarquez@gmail.com)[](mailto:ronyrivasmarquez@gmail.com) * 🧠 Estoy aprendiendo Python, Java, JavaScrip * 🤝 Estoy abierto a colaborar en Desalloro Web * ⚡ Vamos con todo
+
+Hola mi nombre es RONY ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
+Estudie analisis de sistemas hace a#os, davido a otros factores lo deje hazta ahora decidi volver a lo que de verdad me apaciona la progamacion * 🌍Estoy radicado en Venezuela * ✉️ Puedes contactarme en [ronyrivasmarquez@gmail.com](mailto:ronyrivasmarquez@gmail.com)[](mailto:ronyrivasmarquez@gmail.com) * 🧠 Estoy aprendiendo Python, Java, JavaScrip * 🤝 Estoy abierto a colaborar en Desalloro Web * ⚡ Vamos con todo
 
 <a href="https://www.twitch.tv/ronyalejandrooficial" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitch/status/ronyalejandrooficial?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
